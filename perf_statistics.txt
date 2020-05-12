@@ -1,0 +1,3 @@
+1.上下文切换，WindowsNT和Sparc都需要25us，这个应该是很老的数据。
+
+2.innodb mutex mutex默认自旋20us.
